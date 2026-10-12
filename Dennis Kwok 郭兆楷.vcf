@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 27.0.1//EN
+N:郭兆楷;Dennis Kwok;;;
+FN:Dennis Kwok 郭兆楷
+ORG:HENDERSON LAND DEVELOPMENT COMPANY LIMITED (Portfolio Leasing (1) Department);
+TITLE:Deputy General Manager
+EMAIL;type=INTERNET;type=pref:dennis.kwok@hld.com
+TEL;type=CELL;type=VOICE;type=pref:+852 9866 7886
+TEL;type=WORK;type=VOICE:+852 2908 8806
+ADR;type=pref:;;;;;;73/F\, Two IFC\, 8 Finance Street\, Central\, Hong Kong
+item1.URL;type=pref:www.hld.com
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
